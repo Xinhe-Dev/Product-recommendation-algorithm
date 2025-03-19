@@ -11,4 +11,6 @@ The generated association rules can be directly used to recommend products to cu
 3. Marketing Decision Support:
 By analyzing which product combinations appear frequently, companies can better formulate promotion strategies, preferential activities and inventory management plans, thereby improving overall operational efficiency and reducing inventory risks.
 
-The related testing date sets also provided. You can test your data set as well
+The related testing date sets also provided. You can test your data set as well.
+
+The provided data sets is real data from walmart, please refer to: https://www.kaggle.com/datasets/yasserh/walmart-dataset
